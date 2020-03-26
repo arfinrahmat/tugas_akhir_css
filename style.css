@@ -1,0 +1,78 @@
+.btn-primary {
+  background: #ff9900;
+  border: 0;
+  padding: 15px 40px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background: rgb(219, 133, 4);
+  border: 0;
+}
+
+.btn-secondary {
+  background: none;
+  border: 1px solid #bcd0e5;
+  padding: 15px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #173a56;
+}
+
+.btn-secondary:hover {
+  background: none;
+  border: 1px solid rgb(159, 177, 197);
+  color: #173a56;
+}
+.hero h6 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #ff9900;
+}
+
+.hero h1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.hero p {
+  font-family: "Poppins";
+  font-weight: 400;
+}
+
+.hero span {
+  font-size: 14px;
+}
+
+.navbar-nav .nav-link {
+  color: #2f281e;
+}
+
+.hero2 h1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #2f281e;
+}
+.hero2 h5 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #2f281e;
+}
+.hero2 p {
+  font-family: "Montserrat";
+  font-weight: 300;
+  color: #2f281e;
+}
+.footer {
+  font-size: 14px;
+}
+
+.form1 {
+  width: 400px;
+  background-color: #f9f2f2;
+}
+.p1 {
+  font-size: 15px;
+}
